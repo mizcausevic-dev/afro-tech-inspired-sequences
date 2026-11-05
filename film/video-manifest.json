@@ -1,0 +1,26 @@
+{
+  "title": "Afro Tech-Inspired Sequences",
+  "study": "at01",
+  "bpm": 122,
+  "source_audio": "preview/afro-tech-inspired-sequences-simple-synth-preview.mp3",
+  "source_audio_sha256": "f5782cc08a6a9740d57dd4f5d41bcd826c2fda40a0e9d03ed69bd3ee021a0f76",
+  "source_midi": "midi/at01-brass-ring/at01-brass-ring-combined.mid",
+  "source_midi_sha256": "dc11aec8b34b86961235052ca66d95f0b8c389227a319379d500fd58ac5a6b05",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "06b5e43953291027474984d8446e91b7199e00215e5c1fbadedbb6f0d68e1766",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "63a4bf6f8187f41ef16be3b7132c53eed0159e195202a779b100ccd806fd1be1",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "eca3222f7e6e5b57cf32302658a7701992a544f69b0a2c53c55f2f37c8db1098",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
