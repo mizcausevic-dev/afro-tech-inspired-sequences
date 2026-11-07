@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/afro-tech-inspired-sequences-midi.zip",
-      "bytes": 28320,
-      "sha256": "95be97e14eaf80b4464d7ef592db35858ba4cc97485f46190109717f8a17dd81"
+      "bytes": 30409,
+      "sha256": "940fe78bccd19bdbde8be550e2a0e70a5d58b85ee132e979dff8ff1fb765eb43"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9534,
-      "sha256": "f62d6086f9bf8670de30c68813790d49823219105cb707501bffcecc02584866"
+      "bytes": 9724,
+      "sha256": "311d3d2b0bf4b01b8c6f9f5f170744a9a165b0c9a531e4370207f44656eb28c1"
     },
     {
       "path": "midi/at01-brass-ring/at01-brass-ring-combined.mid",
@@ -377,6 +377,11 @@
       "sha256": "1fb2a28cf458d205e8fb6e0c8e0e40762d68801af9aef3e73cc3c21049af003c"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/afro-tech-inspired-sequences-simple-synth-preview.mp3",
       "bytes": 1524132,
       "sha256": "f5782cc08a6a9740d57dd4f5d41bcd826c2fda40a0e9d03ed69bd3ee021a0f76"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3916,
-      "sha256": "80b18357c9c927e3883531f8b00babe4747c3c1bc955d6b1518767cf13304609"
+      "bytes": 4031,
+      "sha256": "83600ff5d65ed3eaf262ef9ff2ce2e3a64578826f8db6e7ac8bcb6663dd15e18"
     },
     {
       "path": "social/instagram/caption.txt",
